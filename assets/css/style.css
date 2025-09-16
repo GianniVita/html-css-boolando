@@ -16,3 +16,15 @@
   body.debug {
     background: #f5f5f5;
   }
+
+  /* Nav Bar */
+  .nav-bar{
+    height: ;
+  }
+
+
+  /* Logo */
+.logo {
+    width: 120px;
+    height: 30px;
+}
