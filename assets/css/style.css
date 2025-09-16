@@ -123,6 +123,8 @@ footer{
     display: flex;
     justify-content: space-around;
     margin-top: 4%;
+    background-color: #1a1a1a;
+    height: 5rem;
 
 }
 
@@ -134,3 +136,8 @@ ul{
     display: flex;
     justify-content: space-between;
 }
+
+i{
+    color: #ffffff;
+}
+
