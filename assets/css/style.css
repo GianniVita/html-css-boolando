@@ -67,22 +67,28 @@
 
 /* <---------- product image layout ----------> */
 
-.product-grid{
+
+main{
     width: 90%;
-    max-width: 1200px;
     margin: 40px auto;
-    display: flex;
-    gap: 50px;
-    
 }
 
 
 
 .product-img{
     height: 100%;
-    width: 350px;
+    width: 100%;
 }
 
 .price{
     color: #ff0000;
+}
+
+.card{
+    width: calc((100% - 20px) / 3);
+}
+
+.row{
+    display: flex;
+    gap: 10px;
 }
