@@ -39,3 +39,12 @@
     display: flex;
     gap: 15px;
   }
+
+  /* Top Left  */
+
+.top-left a{
+    gap: 30px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
