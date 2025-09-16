@@ -17,6 +17,9 @@
     background: #f5f5f5;
   }
 
+ *{
+    font-family: Arial, Helvetica, sans-serif;
+    }
 
   .top-banner {
     width: 100%;
@@ -27,7 +30,7 @@
   }
 
 
-  /* Nav Bar */
+  /* <-------- Nav Bar --------> */
   .nav-bar{
     width: 90%;
     max-width: 1200px;
@@ -59,7 +62,6 @@
 .top-left a{
     gap: 30px;
     text-decoration: none;
-    font-family: Arial, Helvetica, sans-serif;
     color: var(--boo-bg);    
 }
 
@@ -76,4 +78,8 @@
 .product-img{
     height: 100%;
     width: 350px;
+}
+
+.price{
+    color: #ff0000;
 }
