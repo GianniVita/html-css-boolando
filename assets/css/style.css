@@ -62,3 +62,18 @@
     font-family: Arial, Helvetica, sans-serif;
     color: var(--boo-bg);    
 }
+
+/* <---------- product image layout ----------> */
+
+.product-grid{
+    width: 90%;
+    max-width: 1200px;
+    margin: 40px auto;
+}
+
+
+
+.product-img{
+    height: 100%;
+    width: 350px;
+}
